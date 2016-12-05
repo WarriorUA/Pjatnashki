@@ -1,0 +1,6 @@
+C:\Users\dinoz\Desktop\Pjatnashki\Pjatnashki\bin\Debug\Pjatnashki.exe.config
+C:\Users\dinoz\Desktop\Pjatnashki\Pjatnashki\bin\Debug\Pjatnashki.exe
+C:\Users\dinoz\Desktop\Pjatnashki\Pjatnashki\bin\Debug\Pjatnashki.pdb
+C:\Users\dinoz\Desktop\Pjatnashki\Pjatnashki\obj\Debug\Pjatnashki.csprojResolveAssemblyReference.cache
+C:\Users\dinoz\Desktop\Pjatnashki\Pjatnashki\obj\Debug\Pjatnashki.exe
+C:\Users\dinoz\Desktop\Pjatnashki\Pjatnashki\obj\Debug\Pjatnashki.pdb
